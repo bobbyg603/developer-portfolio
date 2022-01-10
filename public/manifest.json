@@ -1,19 +1,19 @@
 {
   "short_name": "Portfolio",
-  "name": "Hanzla's Portfolio",
-  "description": "A passionate Full Stack Web Developer and Mobile App Developer.",
-  "icons": [
-    {
-      "src": "./favicon.png",
-      "type": "image/png",
-      "sizes": "192x192"
-    },
-    {
-      "src": "./favicon.png",
-      "type": "image/png",
-      "sizes": "512x512"
-    }
-  ],
+  "name": "Bobby's Portfolio",
+  "description": "A friendly, hard-working, curious, and entrepreneurial minded individual trying to leave the world a little better than I found it.",
+    "icons": [
+      {
+        "src": "./favicon.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "./favicon.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
   "start_url": "./index.html",
   "display": "standalone",
   "theme_color": "#11cdef",
