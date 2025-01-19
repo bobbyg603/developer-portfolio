@@ -28,7 +28,7 @@ export const socialLinks: SocialLinksType = {
   url: 'https://workingdevshero.com/',
   facebook: "https://www.facebook.com/bobbyg603/",
   instagram: "https://www.instagram.com/bobbyg603/",
-  twitter: "https://twitter.com/bobbyg603",
+  twitter: "https://x.com/bobbyg603",
   github: "https://github.com/bobbyg603",
   linkedin: "https://www.linkedin.com/in/bobby-galli-55b91128/",
 };
@@ -110,15 +110,15 @@ export const skillsSection: SkillsSectionType = {
 export const SkillBars: SkillBarsType[] = [
 	{
 		Stack: "Frontend / Design",
-		progressPercentage: "90",
+		progressPercentage: "95",
 	},
 	{
 		Stack: "Backend",
-		progressPercentage: "85",
+		progressPercentage: "90",
 	},
 	{
-		Stack: "Coding",
-		progressPercentage: "95",
+		Stack: "Database",
+		progressPercentage: "85",
 	},
 ];
 
@@ -136,7 +136,7 @@ export const educationInfo: EducationType[] = [
 
 export const experience: ExperienceType[] = [
 	{
-		role: "Senior Software Engineer",
+		role: "Principal Software Engineer",
 		company: "BugSplat",
 		companyLogo: "/img/icons/common/bugsplat.png",
 		date: "April 2017 - Present",
